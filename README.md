@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 
-![Piireslu GitHub stats](https://github-readme-stats.vercel.app/api?username=piireslu&show_icons=true&theme=gruvbox)
+![Piireslu GitHub stats](https://github-readme-stats.vercel.app/api?username=piireslu&show_icons=true&theme=radical)
 
 ### Tecnologias que estou praticando.💻
 
