@@ -1,9 +1,8 @@
 
-### Hi! I'm Luciana Pires ✌🏾
+### Olá! Sou a Luciana Pires ✌🏾
 <div>
 👩🏾‍🎓 Formada em UX/UI.<br/>
-📚 Estudante de desenvolvimento Web.<br/>
-🌱 Tenho como objetivo ser desenvolvedora font-end.
+📚 Estudante de desenvolvimento Web - Front-end.<br/>
 </div><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-lucianapires)
