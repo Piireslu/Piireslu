@@ -24,4 +24,9 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div><br/>
-Transformando códigos em soluções intuitivas e agradáveis para o usuário, sempre em busca de novos desafios e aprendizados na área de desenvolvimento front-end. 💻✨
+Olá, bem-vindo(a) ao meu perfil do Github! Aqui você encontrará alguns dos meus projetos pessoais e de estudo, incluindo exemplos de aplicativos e sistemas que desenvolvi. Fique à vontade para navegar e explorar meu código, além de me enviar seus feedbacks ou sugestões por meio de commits e pull requests.
+
+Estou sempre aberta a novas oportunidades e parcerias de desenvolvimento, então não hesite em entrar em contato comigo caso tenha alguma ideia ou projeto em mente. Juntos podemos criar soluções inovadoras e impactar positivamente a vida das pessoas por meio da tecnologia!
+
+Meu foco está na área de desenvolvimento front-end, buscando sempre transformar códigos em soluções intuitivas e agradáveis para o usuário. 
+Adoro novos desafios e estou sempre em busca de aprendizados para crescer na minha carreira. 💻✨
