@@ -1,6 +1,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&pause=1000&color=F515F7&width=435&lines=Ol%C3%A1!+Sou+a+Luciana+Pires+%E2%9C%8C%F0%9F%8F%BE" alt="Typing SVG" /></a>
 <div>
-👩🏾‍🎓 Formada em UX/UI.<br/>
+👩🏾‍🎓 Formada em UX/UI - How Education <br/>
 📚 Estudante de Análise e Desenvolvimento de Sistemas - Anhanguera <br/>
 </div><br/>
 
